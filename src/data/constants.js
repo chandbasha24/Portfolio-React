@@ -276,6 +276,21 @@ export const projects = [
     webapp: "",
   },
   {
+    id: 7,
+    title: "A Scroll-Triggered Animation with ChatGPT",
+    description:
+          "developed my own style of motion art effects utilizing GSAP (GreenSock Animation Platform) & ScrollTrigger in React.  ",
+    image:
+      "https://ihatetomatoes.net/wp-content/uploads/2020/07/img_react-and-scrolltrigger.png",
+    tags: ["React", "GSAP", "Scroll-trigger "],
+    category: "web app",
+    github: "https://github.com/chandbasha24/motion-art-effect_React",
+    webapp: "https://chandbasha24.github.io/motion-art-effect_React/",
+   
+    
+    
+  },
+  {
     id: 8,
     title: "Tic Tac Toe Game",
     description:
