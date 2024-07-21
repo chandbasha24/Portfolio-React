@@ -204,7 +204,7 @@ export const projects = [
     description:
     "Hungry Hub is an online food delivery website developed with the MERN Stack.Features seamless food browsing and secure order placement with Dummy Braintree Payment integration.Admins can manage content, update items, organize categories, and set the status of user orders.Delivers seamless food ordering experience for both users and administrators.",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-DhUgyEmOe42TFMJ0a4Race3EZNGfl40VbN2ycx_5HhQXsUiGFRVxV6BP3hjOVGGNd8&usqp=CAU",
+      "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/6a/ff/f8/6afff8a9-851a-b817-6c7f-8130cc8175b2/source/512x512bb.jpg",
     tags: [
       "React.js",
       "Node.js",
