@@ -11,7 +11,7 @@ export const Bio = {
   "As a dedicated MERN stack developer, I thrive on tackling new challenges and continuously expanding my skill set. My passion for learning drives me to stay updated with the latest advancements in web development, ensuring that I deliver high-quality, efficient, and scalable solutions. ",
   github: "https://github.com/chandbasha24",
   resume:
-    "https://drive.google.com/file/d/1DkEDlhB9e5D6pbLnJo8tNvcGEpjmhi9g/view",
+    "https://drive.google.com/file/d/1FrSuxEsVqCEgAPDYANea_ZyW4shFHFpW/view",
   linkedin: "https://www.linkedin.com/in/chand-basha-panyam-79a87a269/",
   // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/chand.24x/",
