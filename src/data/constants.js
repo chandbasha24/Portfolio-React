@@ -338,7 +338,7 @@ export const projects = [
     ],
     category:"android app",
     github: "https://github.com/chandbasha24/BlogApp-Mern-Project",
-    webapp: "",
+    webapp: "https://github.com/chandbasha24/BlogApp-Mern-Project",
   },
   {
     id: 7,
