@@ -249,7 +249,7 @@ export const projects = [
     ],
     category: "android app",
     github: "https://github.com/chandbasha24/social-media-task_mern",
-    webapp: "https://profound-paprenjak-50300b.netlify.app/",
+    webapp: "https://drive.google.com/file/d/1Aaf53EIYR9J8f_jZYMcJQyYK3YWABqLC/view",
   },
   {
     id: 0,
