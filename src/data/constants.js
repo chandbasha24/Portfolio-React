@@ -11,7 +11,7 @@ export const Bio = {
   "As a dedicated MERN stack developer, I thrive on tackling new challenges and continuously expanding my skill set. My passion for learning drives me to stay updated with the latest advancements in web development, ensuring that I deliver high-quality, efficient, and scalable solutions. ",
   github: "https://github.com/chandbasha24",
   resume:
-    "https://drive.google.com/file/d/1FrSuxEsVqCEgAPDYANea_ZyW4shFHFpW/view",
+    "https://drive.google.com/file/d/19xJPGs0HesORM2qBBHwqx24p5Z7J0PwL/view",
   linkedin: "https://www.linkedin.com/in/chand-basha-panyam-79a87a269/",
   // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/chand.24x/",
@@ -35,10 +35,19 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
       },
       {
+        name: "Tailwind CSS",
+        image:
+"https://tse2.mm.bing.net/th?id=OIP.Y-BbFmqRsIQWzX5BWC4mNQAAAA&pid=Api&P=0&h=180",      },
+
+      {
         name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
+      {
+        name: "Redux",
+        image:
+"https://tse4.mm.bing.net/th?id=OIP.yHO9EA1tfmLQoatRkVA4_AHaFj&pid=Api&P=0&h=180"      },
       {
         name: "Bootstrap",
         image:
@@ -71,6 +80,11 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
+
+      {
+        name: "MySQL",
+        image:
+"https://tse4.mm.bing.net/th?id=OIP.urLHYMYPFxkcs6AC4Io9vwHaHa&pid=Api&P=0&h=180"      },
       {
         name: "Rest API",
         image:
@@ -133,7 +147,7 @@ export const experiences = [
     img: "https://media.glassdoor.com/l/79/43/6b/4c/maang-technologies.jpg",
     role: "Fullstack Engineering Intern",
     company: "Maang Technologies Pvt. Ltd.",
-    date: "May 2024 - Present",
+    date: "May 2024 -August 2024",
     desc: "Working as remote developer.",
     skills: [
       "Java",
@@ -246,6 +260,37 @@ export const projects = [
     webapp: "https://weather-app-react-one-psi.vercel.app/",
   },
   {
+    id: 10,
+    title: "Lunacal Assignment React + Tailwind  ",
+    
+    description: " created the Web page  .",
+    image: "https://i.ytimg.com/vi/XtNkcHyVQOY/maxresdefault.jpg",
+          tags: [
+      "React Js",
+         "Tailwind.Css",
+    ],
+    category: "web app",
+    github: "https://github.com/chandbasha24/lunacal-assignment",
+    webapp: "https://chandbasha24.github.io/lunacal-assignment/",
+  },
+
+  {
+    id: 11,
+    title: "Celebrare Frontend Assignment  ",
+    
+    description: " created the Web page using HTML , CSS, Js .",
+    image: "https://cdn.dribbble.com/userupload/6957683/file/original-160f04571e69088762be22263fff1cad.png?resize=1200x900",
+          tags: [
+      "HTML",
+         "CSS",
+         "javaScript",
+    ],
+    category: "web app",
+    github: "https://github.com/chandbasha24/Celebrare_Assignment-Intern/",
+    webapp: "https://chandbasha24.github.io/Celebrare_Assignment-Intern/",
+  },
+
+  {
     id: 2,
     title: " Movie Web clone",
     description:
@@ -290,31 +335,49 @@ export const projects = [
     
     
   },
-  {
-    id: 8,
-    title: "Tic Tac Toe Game",
-    description:
-" developed the Tic-Tac Toe game using the HTML,CSS,JavaScript",   
-     image:
-      "https://github.com/chandbasha24/Tic-Tac-Toe-Game/blob/main/Screenshot.png?raw=true",
-    tags: ["HTML", "CSS", "JavaScript"],
-    category: "web app",
-    github: "https://github.com/chandbasha24/Tic-Tac-Toe-Game",
-    // webapp: "https://brain-tumor.netlify.app/",
+//   {
+//     id: 8,
+//     title: "Tic Tac Toe Game",
+//     description:
+// " developed the Tic-Tac Toe game using the HTML,CSS,JavaScript",   
+//      image:
+//       "https://github.com/chandbasha24/Tic-Tac-Toe-Game/blob/main/Screenshot.png?raw=true",
+//     tags: ["HTML", "CSS", "JavaScript"],
+//     category: "web app",
+//     github: "https://github.com/chandbasha24/Tic-Tac-Toe-Game",
+//     // webapp: "https://brain-tumor.netlify.app/",
     
-  },
-  {
-    id: 10,
-    title: "Currency Converter",
-    description:
-" developed the  Currency Converter using the HTML,CSS,JavaScript, CurrencyAPI",   
-     image:
-      "https://github.com/chandbasha24/Currency-Converter/blob/main/Screenshot.png?raw=true",
-    tags: ["HTML", "CSS", "JavaScript,currency API"],
-    category: "web app",
-    github: "https://github.com/chandbasha24/Currency-Converter",
-    // webapp: "https://brain-tumor.netlify.app/",
+//   },
+//   {
+//     id: 10,
+//     title: "Currency Converter",
+//     description:
+// " developed the  Currency Converter using the HTML,CSS,JavaScript, CurrencyAPI",   
+//      image:
+//       "https://github.com/chandbasha24/Currency-Converter/blob/main/Screenshot.png?raw=true",
+//     tags: ["HTML", "CSS", "JavaScript,currency API"],
+//     category: "web app",
+//     github: "https://github.com/chandbasha24/Currency-Converter",
+//     // webapp: "https://brain-tumor.netlify.app/",
     
+//   },
+  {
+    id: 9,
+    title: "To-do App Assignment",
+    // date: "Jun 2023 - Jul 2023",
+    description:"The app allows users to create, update, and delete tasks, providing a simple, user-friendly interface for task management. The frontend is built using React.js, enabling dynamic rendering of the UI for adding and viewing tasks. It connects with the backend via Axios or Fetch API to handle API requests.",
+    image:
+"https://repository-images.githubusercontent.com/315986811/d74b3080-2f6a-11eb-960e-c405ce8cfc43",    tags: [
+      "React.js",
+      "Node.js",
+      "MONGO DB",
+      "Express.js",
+      "restAPI",
+     
+    ],
+    category: "android app",
+    github: "https://github.com/chandbasha24/Todo-app-Assignment",
+    webapp: "https://drive.google.com/file/d/1VBFl63JJNjw6IbYDjZCDyx-MfpVkN97r/view",
   },
  
  
@@ -325,9 +388,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2021, text: "Started my journey" },
+  { year: 2022, text: "Worked as a freelance developer" },
+  { year: 2023, text: "Founded JavaScript Mastery" },
+  { year: 2024, text: "Shared my projects with the world" },
+  { year: 2025, text: "Started my own platform" },
 ];
