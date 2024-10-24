@@ -218,7 +218,7 @@ export const projects = [
     description:
     "Hungry Hub is an online food delivery website developed with the MERN Stack.Features seamless food browsing and secure order placement with Dummy Braintree Payment integration.Admins can manage content, update items, organize categories, and set the status of user orders.Delivers seamless food ordering experience for both users and administrators.",
     image:
-      "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/6a/ff/f8/6afff8a9-851a-b817-6c7f-8130cc8175b2/source/512x512bb.jpg",
+      "https://i.ytimg.com/vi/xR4wZPbYheA/maxresdefault.jpg",
     tags: [
       "React.js",
       "Node.js",
@@ -230,6 +230,26 @@ export const projects = [
     category: "android app",
     github: "https://github.com/chandbasha24/Hungry-Hub-Mern-Stack",
     webapp: "https://hungry-hub-mern-stack.onrender.com/",
+  },
+
+  {
+    id: 14,
+    title: "Social Media Task Mern",
+    // date: "Jun 2023 - Jul 2023",
+    description:
+    "In the Project User can upload the username, social media handle acc, profile pic & the admin can view the all users details by using of admin credentials.",
+    image:
+      "https://img.oercommons.org/780x780/oercommons/media/courseware/lesson/image/A_hrAZgVD.jpeg",
+    tags: [
+      "React.js",
+      "Node.js",
+      "MONGO DB",
+      "Express.js",
+     
+    ],
+    category: "android app",
+    github: "https://github.com/chandbasha24/social-media-task_mern",
+    webapp: "https://profound-paprenjak-50300b.netlify.app/",
   },
   {
     id: 0,
@@ -244,21 +264,21 @@ export const projects = [
     webapp: "https://dice-game-react-gamma.vercel.app/",
    
   },
-  {
-    id: 1,
-    title: "Weather App ",
+  // {
+  //   id: 1,
+  //   title: "Weather App ",
     
-    description: " created the weather website using the react .",
-    image:
-      "https://beebom.com/wp-content/uploads/2021/05/1.-Weather-default-Windows1.1.jpg",
-          tags: [
-      "React Js",
-         "Weather API",
-    ],
-    category: "web app",
-    github: "https://github.com/chandbasha24/Weather-App-React",
-    webapp: "https://weather-app-react-one-psi.vercel.app/",
-  },
+  //   description: " created the weather website using the react .",
+  //   image:
+  //     "https://beebom.com/wp-content/uploads/2021/05/1.-Weather-default-Windows1.1.jpg",
+  //         tags: [
+  //     "React Js",
+  //        "Weather API",
+  //   ],
+  //   category: "web app",
+  //   github: "https://github.com/chandbasha24/Weather-App-React",
+  //   webapp: "https://weather-app-react-one-psi.vercel.app/",
+  // },
   {
     id: 10,
     title: "Lunacal Assignment React + Tailwind  ",
